@@ -1,0 +1,4 @@
+Bundle-Name: LFR User Birthday Rest Service
+Bundle-SymbolicName: com.liferay.birthday.user.service.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
